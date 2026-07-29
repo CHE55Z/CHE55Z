@@ -2,6 +2,10 @@
 
 > I don't memorize openings. I read the board.
 
+![Python](https://img.shields.io/badge/Python-Learning-000000?style=for-the-badge&logo=python&logoColor=white)
+![♞ Chess](https://img.shields.io/badge/♞%20Chess-Analyze%20%7C%20Adapt%20%7C%20Play-000000?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Blunder%20•%20Learn%20•%20Repeat-000000?style=for-the-badge)
+
 Hey, I'm **CHE55Z**.
 
 I'm a teenager learning **Python** and building things one project at a time. I enjoy solving problems more than following tutorials.
@@ -33,3 +37,5 @@ Sometimes I spend two hours fixing a missing colon.
 ---
 
 > "Think first. Then make your move."
+
+
