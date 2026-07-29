@@ -15,7 +15,7 @@ I'm a teenager learning **Python** and building things one project at a time. I 
 - 🐍 Learning Python
 - ♟️ Freestyle chess player
 - 🧩 I prefer analyzing the position over memorizing book moves
-- ☕ Professional bug creator, occasional bug fixer
+
 
 ## Philosophy
 
